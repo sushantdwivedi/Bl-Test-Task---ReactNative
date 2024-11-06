@@ -29,7 +29,6 @@ Ensure you have React Native CLI installed for building and running the project.
 
 ## Screens Overview
   Below is a brief description of each screen in the application.
-   ![Home Screen](../assets/Splash0001.png)
 
   1. Signup Screen
       Allows new users to create an account by entering their email, password, and confirming their password.
