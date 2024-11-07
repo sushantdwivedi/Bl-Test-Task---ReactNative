@@ -13,7 +13,7 @@ Ensure you have React Native CLI installed for building and running the project.
   git clone https://github.com/sushantdwivedi/BlTestTask.git
   cd BlTestTask
 
-  2. Install dependencies with Yarn:
+  3. Install dependencies with Yarn:
   yarn install
 
 # Running the App
